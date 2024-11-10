@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumera01
 - 👀 I’m interested in CYBER Security
-- 🌱 I’m currently learning B-Tech In CSE 2027
+- 🌱 I’m currently learning B-Tech In CSE (will graduate in 2027)
 - 🫂 I’m looking to collaborate on Projects
 - 📫 How to reach :www.linkedin.com/in/sumera-shaikh0110
 - 😄 Pronouns: She
