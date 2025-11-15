@@ -27,17 +27,15 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
+### About Me
 
 <p align="left">
   I'm Sumera from India.<br><br>
-  - 🔭 I’m working as a Cyber Security Student<br>
-  - 📚 I'm currently learning Third Year B.Tech CSE Student .<br>
-  - ⚡ In my free time, I Read. Here are professional books i am reading   <a href="[https://twitter.com/sumera139945](https://flawless-tuna-cea.notion.site/Sumera-Book-Tracker-2aca353452b6802e8393d4af1d87ca82#2aca353452b68142b393c46d78ac3404)" target="_blank"> Sumera Book Tracker 
-  </a><br>
+  🔭 Currently working as a Cyber Security Student<br>
+  📚 Third Year B.Tech CSE Student<br>
+  ⚡ In my free time, I enjoy reading professional books<br>
+  📖 Check out my <a href="https://flawless-tuna-cea.notion.site/Sumera-Book-Tracker-2aca353452b6802e8393d4af1d87ca82#2aca353452b68142b393c46d78ac3404" target="_blank">Book Tracker</a>
 </p>
-
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
