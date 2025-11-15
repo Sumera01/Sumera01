@@ -33,8 +33,7 @@
   I'm Sumera from India.<br><br>
   - 🔭 I’m working as a Cyber Security Student<br>
   - 📚 I'm currently learning Third Year B.Tech CSE Student .<br>
-  - ⚡ In my free time, I Read. Here are professional books i am reading   <a href="[https://twitter.com/sumera139945](https://flawless-tuna-cea.notion.site/Sumera-Book-Tracker-2aca353452b6802e8393d4af1d87ca82#2aca353452b68142b393c46d78ac3404)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Book&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  - ⚡ In my free time, I Read. Here are professional books i am reading   <a href="[https://twitter.com/sumera139945](https://flawless-tuna-cea.notion.site/Sumera-Book-Tracker-2aca353452b6802e8393d4af1d87ca82#2aca353452b68142b393c46d78ac3404)" target="_blank"> Sumera Book Tracker 
   </a><br>
 </p>
 
