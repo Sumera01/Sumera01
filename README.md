@@ -8,77 +8,60 @@
   <a href="https://sumera-profile.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
+  <a href="https://sumera-profile.vercel.app/blog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumera01.Sumera01&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumera01.Sumera01" />
 </div>
 
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-### About Me
 <p align="left">
-  I'm Sumera from India.<br><br>
-  🔭 Currently working as a Cyber Security Student<br>
-  📚 Third Year B.Tech CSE Student<br>
-  ⚡ In my free time, I enjoy watching SharkTank<br>
+  <strong>I'm Sumera Shaikh</strong> — a passionate Cybersecurity Enthusiast with a keen interest in <strong>intrusion detection systems</strong> and <strong>IoT security research</strong>.<br><br>
+  🔭 Currently a Cyber Security Student<br>
+  📚 Third Year B.Tech CSE Student (CGPA 9.4)<br>
+  ⚡ In my free time, I love watching Shark Tank<br><br>
+  ✍️ Sharing insights on my blog: <a href="https://sumera-profile.vercel.app/blog">Cyber Insights</a>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumera-shaikh0110/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sumera139945)
+## 🌐 Socials
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumera-shaikh0110/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sumera139945)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://sumera-profile.vercel.app/)
+  [![Blog](https://img.shields.io/badge/Blog-Cyber_Insights-21759B.svg?logo=wordpress&logoColor=white)](https://sumera-profile.vercel.app/blog)
+</div>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
 ## 🥇 Primary Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,kotlin,html,css,mysql,git,docker,vscode,androidstudio,raspberrypi,arduino,linux&theme=light&perline=7)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,kotlin,html,css,mysql,git,docker,vscode,androidstudio,raspberrypi,arduino,linux&perline=10" />
+</div>
 
 ## 🥈 Secondary Technology Stack
-![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android studio logo" />
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
-<h3 align="left">🔥 My Stats</h3>
+<br>
+
+<h3 align="left">🔥 My GitHub Stats</h3>
+<div align="center">
+  <!-- Fixed & reliable streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumera01&theme=radical&hide_border=true&border_radius=10" height="180" alt="streak stats"/>
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumera01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=github_dark" height="180" alt="github stats"/>
+  </picture>
 </div>
