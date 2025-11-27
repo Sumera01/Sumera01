@@ -1,20 +1,20 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sumera-shaikh0110/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/sumera139945" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter"/>
   </a>
   <a href="https://sumera-profile.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"/>
   </a>
   <a href="https://sumera-profile.vercel.app/blog" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blog"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumera01.Sumera01" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumera01.Sumera01" alt="visitors"/>
 </div>
 
 <h1 align="center">Hey there</h1>
@@ -30,34 +30,39 @@
 
 ## Socials
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumera-shaikh0110/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sumera139945)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sumera-profile.vercel.app/)
-  [![Blog](https://img.shields.io/badge/Blog-Cyber_Insights-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://sumera-profile.vercel.app/blog)
+  <a href="https://www.linkedin.com/in/sumera-shaikh0110/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/sumera139945" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://sumera-profile.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://sumera-profile.vercel.app/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Blog_Cyber_Insights-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools</h3>
 
 ## Primary Technology Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,kotlin,html,css,mysql,git,docker,vscode,androidstudio,raspberrypi,arduino,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,kotlin,html,css,mysql,git,docker,vscode,androidstudio,raspberrypi,arduino,linux&perline=12" />
 </div>
 
 ## Secondary Technology Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </div>
 
 <br>
 
 <h3 align="left">My GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumera01&theme=radical&hide_border=true&border_radius=10" height="180" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumera01&theme=radical&hide_border=true" height="185" alt="streak stats"/>
   <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=github_dark" height="180" alt="github stats"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=radical&hide_border=true" height="185" alt="github stats"/>
 </div>
