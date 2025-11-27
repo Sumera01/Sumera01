@@ -38,7 +38,7 @@ I'm <b>Sumera Shaikh</b> — a passionate Cybersecurity Enthusiast with a keen i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumera-shaikh0110/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sumera139945)
 
 ## 🥇 Primary Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,kotlin,html,css,mysql,git,docker,vscode,androidstudio,raspberrypi,arduino,linux&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,kotlin,html,css,mysql,git,docker,vscode,androidstudio,raspberrypi,arduino,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 ## 🥈 Secondary Technology Stack
 ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-%23FF6B35.svg?style=for-the-badge&logo=fire&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-%2300FF00.svg?style=for-the-badge&logo=shield&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181417.svg?style=for-the-badge&logo=github&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23EC1C24.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![Hack The Box](https://img.shields.io/badge/HackTheBox-%2300FF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black) ![OverTheWire](https://img.shields.io/badge/OverTheWire-%231b1b1b.svg?style=for-the-badge&logo=terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -73,7 +73,7 @@ I'm <b>Sumera Shaikh</b> — a passionate Cybersecurity Enthusiast with a keen i
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sumera01&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visit Counter](https://visitcount.itsvg.in/api?id=Sumera01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Profile Views counting of visitors to this page started from November 28, 2025
 ![](https://count.getloli.com/get/@Sumera01.github.readme) </br>
