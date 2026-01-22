@@ -7,19 +7,19 @@
 <br><br>
 
   <a href="https://www.linkedin.com/in/sumera-shaikh0110/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" height="35" />
   </a>
   <a href="https://twitter.com/sumera139945" target="_blank">
-    <img src="https://img.shields.io/badge/X-00ff00?style=for-the-badge&logo=x&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/X-00ff00?style=for-the-badge&logo=x&logoColor=black" height="35" />
   </a>
   <a href="https://sumera-profile.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black" height="35" />
   </a>
   <a href="https://tryhackme.com/p/sumera.s.shaikh1" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-00ff00?style=for-the-badge&logo=tryhackme&logoColor=black" height="35" />
   </a>
   <a href="https://sumera-profile.vercel.app/blog.html" target="_blank">
-    <img src="https://img.shields.io/badge/Cyber_Blog-00ff00?style=for-the-badge&logo=wordpress&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Cyber_Blog-00ff00?style=for-the-badge&logo=wordpress&logoColor=black" height="35" />
   </a>
 
 <br><br>
@@ -52,15 +52,15 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Kali_Linux-00ff00?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-00ff00?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00ff00?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-00ff00?style=flat-square&logo=suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00ff00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-00ff00?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-00ff00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-00ff00?style=flat-square&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00ff00?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-00ff00?style=flat-square&logo=kali-linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-00ff00?style=flat-square&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nmap-00ff00?style=flat-square&logo=nmap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Suricata-00ff00?style=flat-square&logo=suricata&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-00ff00?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-00ff00?style=flat-square&logo=kotlin&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-00ff00?style=flat-square&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android_Studio-00ff00?style=flat-square&logo=android-studio&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00ff00?style=flat-square&logo=arduino&logoColor=black" />
 
 </div>
 
@@ -80,10 +80,10 @@
 
 <div align="center">
   <p>
-    • <b>NetScope</b> — Real-time network security monitor (Kotlin/Android) → <a href="https://github.com/Sumera01/NetScope">GitHub</a><br>
-    • <b>Encrypted Chat App</b> — Secure terminal chat (C/NCurses) → <a href="https://github.com/Sumera01/encrypted-chat-app">GitHub</a><br>
-    • <b>ESP32 MQTT</b> — Wireless IoT comms → <a href="https://github.com/Sumera01/ESP32-MQTT-Communication">GitHub</a><br>
-    • <b>MSBTE Study Resources</b> — 12k+ PDFs Android app → <a href="https://play.google.com/store/apps/details?id=com.msbtestudy.resources&pli=1">Play Store</a><br>
+    • <b>NetScope</b> — Real-time network security monitor (Kotlin/Android) → <a href="https://github.com/Sumera01/NetScope"><font color="#00ff41">GitHub</font></a><br>
+    • <b>Encrypted Chat App</b> — Secure terminal chat (C/NCurses) → <a href="https://github.com/Sumera01/encrypted-chat-app"><font color="#00ff41">GitHub</font></a><br>
+    • <b>ESP32 MQTT</b> — Wireless IoT comms → <a href="https://github.com/Sumera01/ESP32-MQTT-Communication"><font color="#00ff41">GitHub</font></a><br>
+    • <b>MSBTE Study Resources</b> — 12k+ PDFs Android app → <a href="https://play.google.com/store/apps/details?id=com.msbtestudy.resources&pli=1"><font color="#00ff41">Play Store</font></a><br>
     • <b>Marked Bookmark Vault</b> — CS50 web project (500+ users)
   </p>
 </div>
