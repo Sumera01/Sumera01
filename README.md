@@ -1,50 +1,50 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Ethical+Hacker+in+Training;Cybersecurity+Researcher;IoT+Security+Specialist;Kali+Linux+%7C+Nmap+%7C+Metasploit" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Enthusiast;Network+Security+Researcher;IoT+Security+Explorer;Kali+Linux+%7C+Wireshark+%7C+Suricata" alt="Typing SVG" />
 
 # 👾 Sumera Shaikh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumera01&color=00ff41&style=for-the-badge)
 
-**B.Tech Computer Science | Pentester in the Making | Network Defender**
+**B.Tech Computer Science Student | Cybersecurity Enthusiast | IoT & Android Developer**
 
-Exploiting vulnerabilities (ethically), dissecting packets with Wireshark, crafting honeypots, and securing IoT ecosystems. Kali Linux is my OS, Suricata my IDS, and curiosity my weapon.
+Deeply interested in network security, packet analysis, intrusion detection, and securing IoT devices. Exploring ethical hacking concepts while building practical tools and researching real-world defenses.
 
-> "The best defense is understanding the attack."
+> "Security is not about perfection — it's about understanding threats."
 
 <br>
 
-### 🔴 Currently Hacking
+### 🔴 Currently Working On
 - **NetScope** → Real-time Android network monitoring & security analysis (Kotlin + packet capture)
-- Research: False positive reduction in anomaly-based IDS via honeypot traffic redirection (IoT-focused, Kali + Cowrie + Suricata)
+- Research: Reducing false positives in anomaly-based IDS using honeypot traffic redirection (IoT-focused, Suricata + Cowrie)
 
 ### 🛡️ Looking to Collaborate On
-- Open-source pentesting tools
-- Honeypot deployments & IDS rule crafting
-- IoT exploitation/security projects
+- Open-source cybersecurity tools
+- Honeypot & IDS projects
+- IoT security solutions
 - Machine learning for anomaly detection
 
 ### 🔓 Looking for Help With
-- Advanced ML models for intrusion detection
-- Low-resource honeypot optimization
+- Advanced ML integration for intrusion detection
+- Optimizing low-resource honeypots
 - Scaling secure Android apps with REST/JSON
 
 ### 🌙 Currently Learning
-- Advanced exploitation techniques (Metasploit, Burp Suite)
-- TinyML for embedded security (ESP32/RPi)
-- Deeper packet analysis (Wireshark + Suricata rules)
+- Deeper network analysis (Wireshark, Suricata rules)
+- Honeypot systems & basic exploitation techniques
+- TinyML for embedded device security (ESP32/RPi)
 
 ### 💬 Ask Me About
-- Ethical hacking & Kali Linux toolkit
-- Network scanning (Nmap mastery)
-- IoT protocols & vulnerabilities (MQTT, ESP32)
+- Network security & packet analysis
+- Kali Linux tools (Nmap, Wireshark, Metasploit basics)
+- IoT development & vulnerabilities (MQTT, ESP32)
 - Android/Kotlin development
-- Cybersecurity research & student communities
+- Cybersecurity research & certifications
 
-### ⚡ Hacker Facts
-- Built **MSBTE Study Resources** Android app serving 12,000+ PDFs to diploma students
-- Created **Marked – Bookmark Vault** (CS50 final project) with 500+ active users
+### ⚡ Fun Facts
+- Built **MSBTE Study Resources** Android app with 12,000+ PDFs helping diploma students 📚
+- Created **Marked – Bookmark Vault** (CS50 final project) with 500+ active users 🔖
 - Harvard CS50x + CS50 Cyber Security certified
 - Cisco Networking & IoT certified | Kaggle ML certified
-- Active on TryHackMe → Adept Rank | 53 Rooms Completed | 21-day streak 🔥
+- Active on TryHackMe → Completed 53+ rooms with solid progress 🔥
 
 <br>
 
@@ -55,18 +55,14 @@ Exploiting vulnerabilities (ethically), dissecting packets with Wireshark, craft
   </a>
 </p>
 
-*(If the badge doesn't load, it's because TryHackMe static badges sometimes need a GitHub Action refresh — but the profile link works!)*
-
 <br>
 
-## 🛠️ Arsenal (Tech Stack)
+## 🛠️ Tech Stack & Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-00FFFF?style=for-the-badge&logo=parrot-os&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-0A7ACA?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-002664?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-004B8D?style=for-the-badge&logo=suricata&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0A7ACA?style=for-the-badge&logo=nmap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -76,7 +72,7 @@ Exploiting vulnerabilities (ethically), dissecting packets with Wireshark, craft
 
 <br>
 
-## 📊 GitHub Intel
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -88,23 +84,23 @@ Exploiting vulnerabilities (ethically), dissecting packets with Wireshark, craft
 
 <br>
 
-## 🚀 Featured Exploits & Projects
+## 🚀 Featured Projects
 
-- **NetScope** → Real-time network security monitor (Kotlin/Android)  
+- **NetScope** → Real-time network monitoring & security tool (Kotlin/Android)  
   [GitHub](https://github.com/Sumera01/NetScope)
 
-- **Encrypted Chat App** → Secure terminal chat with ROT4 + sockets (C/NCurses)  
+- **Encrypted Chat App** → Secure terminal chat with encryption (C/NCurses/Sockets)  
   [GitHub](https://github.com/Sumera01/encrypted-chat-app)
 
-- **ESP32 MQTT Communication** → Wireless IoT comms (ESP32/Arduino)  
+- **ESP32 MQTT Communication** → Wireless IoT device project  
   [GitHub](https://github.com/Sumera01/ESP32-MQTT-Communication)
 
-- **MSBTE Study Resources** → Android app with 12k+ resources  
+- **MSBTE Study Resources** → Android app with 12k+ study materials  
   [Play Store](https://play.google.com/store/apps/details?id=com.msbtestudy.resources&pli=1)
 
-- **Marked – Bookmark Vault** → CS50 web project (500+ users)
+- **Marked – Bookmark Vault** → Secure web bookmark manager (CS50 project)
 
-- **DeskMate** → Smart OLED IoT display (ESP32)
+- **DeskMate** → Smart OLED display IoT device (ESP32)
 
 <br>
 
@@ -121,11 +117,11 @@ Exploiting vulnerabilities (ethically), dissecting packets with Wireshark, craft
     <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://sumera-profile.vercel.app/blog.html">
-    <img src="https://img.shields.io/badge/Cyber_Blog-FF0000?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cyber_Blog-FF3366?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
 </p>
 
-*30+ cybersecurity blog posts — from phishing to IoT threats.*
+*30+ blog posts on cybersecurity topics — from basics to IoT threats.*
 
 <br>
 
