@@ -1,84 +1,122 @@
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/sumera-shaikh0110/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/sumera139945" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://sumera-profile.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-  </a>
-</div>
+# Hi, I'm Sumera Shaikh 👋
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumera01.Sumera01&" alt="Visitor count" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Sumera01&color=brightgreen&style=flat-square)
 
-###
-<h1 align="center">Hey there 👋</h1>
+**B.Tech Computer Science Student | Cybersecurity Enthusiast | IoT & Android Developer**
 
-###
-<h3 align="left">👩‍💻 About Me</h3>
+Passionate about cybersecurity, network security, IoT, and building practical tools that solve real-world problems. Currently researching anomaly-based intrusion detection and honeypot systems for IoT environments.
 
-<p align="left">
-I'm Sumera from India.<br><br>
-🔭 Currently working as a Cyber Security Student<br>
-📚 Third Year B.Tech CSE Student<br>
-⚡ In my free time, I enjoy watching SharkTank
+<br>
+
+### 🔭 I'm currently working on
+- **NetScope** — Real-time network monitoring & security analysis tool in Kotlin
+- Research: Reducing false positives in anomaly-based IDS using honeypot traffic redirection (IoT-focused)
+
+### 👯 I'm looking to collaborate on
+- Open-source cybersecurity projects
+- IoT security solutions
+- Educational or security-focused Android apps
+- Machine learning for network anomaly detection
+
+### 🤝 I'm looking for help with
+- Advanced ML integration for intrusion detection
+- Optimizing low-resource honeypot deployments
+- Scaling Android apps with complex REST/JSON features
+
+### 🌱 I'm currently learning
+- Advanced honeypot systems & Suricata rules
+- TinyML on embedded devices (ESP32/Raspberry Pi)
+- Deeper Wireshark & Metasploit techniques
+
+### 💬 Ask me about
+- Ethical hacking & Kali Linux tools
+- IoT development (ESP32, MQTT, Arduino)
+- Android development with Kotlin
+- Machine learning for cybersecurity
+- Student community leadership & event organization
+
+### ⚡ Fun facts
+- Built **MSBTE Study Resources** Android app with 12,000+ PDFs — helping thousands of diploma students prepare for exams 📚
+- Created **Marked – The Bookmark Vault** (CS50 final project) with 500+ active users 🔖
+- Certified in Harvard CS50x, CS50 Cyber Security, Cisco Networking, Kaggle ML, and more!
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<br>
+
+<!-- Alternative compact skill icons (uncomment if preferred) -->
+<!-- <img src="https://skillicons.dev/icons?i=py,c,java,js,kotlin,html,css,sql,git,github,tensorflow,pandas,numpy,sklearn,androidstudio,vscode,linux,arduino,raspberrypi" /> -->
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumera01&show_icons=true&theme=tokyonight&hide_border=true" alt="Sumera's GitHub Stats" />
 </p>
 
-###
-<h3 align="left">🛠 Languages and Tools</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumera01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumera01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumera01&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
-</div>
+<br>
 
-###
-<h3 align="left">🔥 My Stats</h3>
+## 🚀 Featured Projects
 
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumera01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- **NetScope** — Real-time network monitoring & security analysis (Kotlin, Android)  
+  [GitHub](https://github.com/Sumera01/NetScope)
+
+- **ESP32 MQTT Communication** — Wireless IoT device communication  
+  [GitHub](https://github.com/Sumera01/ESP32-MQTT-Communication)
+
+- **Encrypted Chat App** — Secure terminal chat with ROT4 encryption (C, NCurses, Sockets)  
+  [GitHub](https://github.com/Sumera01/encrypted-chat-app)
+
+- **MSBTE Study Resources** — Android app for diploma students (12,000+ PDFs, notes, mock tests)  
+  [Google Play](https://play.google.com/store/apps/details?id=com.msbtestudy.resources&pli=1)
+
+- **Marked – The Bookmark Vault** — Secure bookmark manager (CS50 final project, 500+ users)  
+
+- **DeskMate** — Smart OLED display IoT device (ESP32, Arduino)  
+
+<br>
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://github.com/Sumera01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+Feel free to star ⭐ my repos or contribute!
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=150&section=footer&fontSize=30" />
+</p>
